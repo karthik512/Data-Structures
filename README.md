@@ -5,13 +5,13 @@ Contains the implementation of various Data Structures in C/C++
 The data structures available are - 
  
  <ol>
- <li>C
+ <li><b>C</b>
  <ul>
  <li>Trees</li>
  <li>Tries</li>
  </ul>
  </li>
- <li>C++
+ <li><b>C++</b>
  <ul>
  <li>Trees</li>
  <li>Graphs</li>
